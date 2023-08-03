@@ -13,6 +13,7 @@ Please note : The serial number is not provided in the config.plist file. You'll
 
 - OpenCore version used : 0.9.3
 - SMBIOS Mac model used : MacPro7,1
+- Boot arg : debug=0x100 keepsyms=1 alcid=7 agdpmod=pikera unfairgva=1
 ### What's working
 - :white_check_mark: Built-in headphones audio
 - :white_check_mark: Processor Sensor (use [AMD Power Gadget](https://github.com/trulyspinach/SMCAMDProcessor) app)
@@ -73,6 +74,7 @@ Attention : Le numéro de série n'est pas fourni dans le fichier config.plist. 
 
 - Version d'OpenCore utilisée : 0.9.3
 - Paramètre SMBIOS utilisé : MacPro7,1
+- Options de démarrage : debug=0x100 keepsyms=1 alcid=7 agdpmod=pikera unfairgva=1
 ### Ce qui fonctionne
 - :white_check_mark: Casque audio intégré (port arrière de la carte mère)
 - :white_check_mark: Capteurs du processeur (application [AMD Power Gadget](https://github.com/trulyspinach/SMCAMDProcessor) à utiliser)
