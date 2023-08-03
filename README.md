@@ -21,6 +21,7 @@ Please note : The serial number is not provided in the config.plist file. You'll
 - :white_check_mark: DisplayPort/HDMI Audio (issue with gaming patch, see below)
 - :white_check_mark: Ethernet
 - :white_check_mark: DRM Support
+- :white_check_mark: iMessage/Facetime/iCloud
 ### What's not working
 - :x: Built-in microphone (issue reported [here](https://www.reddit.com/r/hackintosh/comments/oijj7i/has_anyone_managed_to_get_audio_working_on_a_b550/?rdt=33761) -> use USB microphone instead)
 - :x: More than 15 USB logical port (macOS restriction)
@@ -82,6 +83,7 @@ Attention : Le numéro de série n'est pas fourni dans le fichier config.plist. 
 - :white_check_mark: DisplayPort/HDMI Audio (problème avec le patch gaming, à voir ci-dessous)
 - :white_check_mark: Ethernet
 - :white_check_mark: Support des DRM
+- :white_check_mark: iMessage/Facetime/iCloud
 ### Ce qui ne fonctionne pas
 - :x: Microphone intégré (problème listé [ici](https://www.reddit.com/r/hackintosh/comments/oijj7i/has_anyone_managed_to_get_audio_working_on_a_b550/?rdt=33761) -> micro USB à utiliser à la place)
 - :x: Plus de 15 ports USB logiques (restriction de macOS)
